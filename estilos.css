@@ -104,6 +104,7 @@ body {
   .blog {
     width: 1000px;
     margin: 0 auto;
+    position: flex;
   }
   
   
@@ -208,3 +209,13 @@ body {
     -ms-transition: opacity 500ms;
     transition: opacity 500ms;
   }
+
+  @media screen and (max-width:800px) {
+
+    .blog {
+        flex-wrap: wrap;
+    }
+
+
+}
+
