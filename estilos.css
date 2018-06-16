@@ -204,6 +204,11 @@ body {
     margin:50px;
     text-align: center;
   }
+
+  .desvanecer {
+    height: 350px;
+    background-size: cover;
+  }
   
   .desvanecer:hover {
     opacity: 0.2;
