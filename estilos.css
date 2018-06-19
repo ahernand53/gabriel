@@ -205,10 +205,6 @@ body {
     margin:50px;
     text-align: center;
   }
-
-  .desvanecer {
-    height: 400px;
-  }
   
   .desvanecer:hover {
     opacity: 0.2;
